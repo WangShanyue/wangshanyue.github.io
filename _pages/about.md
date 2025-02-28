@@ -48,6 +48,7 @@ RESEARCH PLATFORMS
    - **Passive Image Signal Transmission**: Incorporating Vision Transformer-based image reconstruction algorithms to reduce transmission load by 70%.
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
    - 
+
 SKILLS
 ------
 - **Programming Languages**: C/C++, MATLAB, Python, GNU Radio, LabVIEW, Java, Verilog.
