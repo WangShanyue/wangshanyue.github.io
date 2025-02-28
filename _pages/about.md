@@ -33,9 +33,9 @@ PUBLICATIONS
 - Yachen Mao, Panlong Yang, **Shanyue Wang**, et al. [“STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking”](https://ieeexplore.ieee.org/abstract/document/10188790?casa_token=0tFbrd88icIAAAAA:zOXFPuMSC515423od0PmglPzAEPBG6sO_u14VRZVgScOzMjvWMeoBF68hAA27C6UMJ2Ccd8upG0), IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2023</span>).
 - Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, et al. [“A Framework for Adaptive Adjustment in BLE-Based Low Power IoT Vision”](https://ieeexplore.ieee.org/abstract/document/10819368?casa_token=M2waCU-oVgQAAAAA:wNGrXCv7aN0ktVqhRGxIaoXILtpqHQ-mx2w1SdEviRTarqY1WWfdp5I1wX-AUKYZ1z4_x8qjFhg), IEEE Internet of Things Journal (<span style="color:red;">IOTJ 2024</span>).
 - Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, et al. [“Survey on Low Power Sensing of AloT”](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202440396), Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
- -->
+ 
 
-<!-- RESEARCH PLATFORMS
+RESEARCH PLATFORMS
 ======
 1. **Ultra-Low-Power Massive IoT Platform**
    - An optimal spectrum planning strategy based on linear programming enables 30 tags to communicate concurrently in a 630kHz band with 305kbps throughput. A conflict-tolerant priority scheduling technique supports 96-tag cooperation.
