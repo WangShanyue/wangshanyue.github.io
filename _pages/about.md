@@ -21,7 +21,7 @@ Major: Software Engineering (Overall GPA: 4.3/5 Rank: 1st/101)
 
 PUBLICATIONS
 ======
-- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. [“MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”], IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
+<!-- - **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. [“MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”], IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
 - **Shanyue Wang**, Yubo Yan, Feiyu Han, et al. [“MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences”](https://dl.acm.org/doi/abs/10.1145/3643832.3661862) The 22nd ACM International Conference on Mobile Systems, Applications, and Services (<span style="color:red;">MobiSys 2024).
 - **Shanyue Wang**, Feiyu Han, Yubo Yan, et al. [“Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences”](https://ieeexplore.ieee.org/abstract/document/10682943?casa_token=vIERyBbY2HkAAAAA:kimKI9iyahEVs1uaI-tudMcBXOf2sqBr92iNQ6ih0Hnr0nH5nk_Pbu9hKvDVBqXS0AtfcKHADDI), IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2024</span>).
 - **Shanyue Wang**, Yubo Yan, Yujie Chen, et al. [“Spray: A Spectrum-efficient and Agile Concurrent Backscatter System”](https://dl.acm.org/doi/abs/10.1145/3638051), ACM Transactions on Sensor Networks (<span style="color:red;">TOSN 2024</span>).
@@ -33,7 +33,7 @@ PUBLICATIONS
 - Yachen Mao, Panlong Yang, **Shanyue Wang**, et al. [“STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking”](https://ieeexplore.ieee.org/abstract/document/10188790?casa_token=0tFbrd88icIAAAAA:zOXFPuMSC515423od0PmglPzAEPBG6sO_u14VRZVgScOzMjvWMeoBF68hAA27C6UMJ2Ccd8upG0), IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2023</span>).
 - Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, et al. [“A Framework for Adaptive Adjustment in BLE-Based Low Power IoT Vision”](https://ieeexplore.ieee.org/abstract/document/10819368?casa_token=M2waCU-oVgQAAAAA:wNGrXCv7aN0ktVqhRGxIaoXILtpqHQ-mx2w1SdEviRTarqY1WWfdp5I1wX-AUKYZ1z4_x8qjFhg), IEEE Internet of Things Journal (<span style="color:red;">IOTJ 2024</span>).
 - Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, et al. [“Survey on Low Power Sensing of AloT”](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202440396), Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
-
+ -->
 
 RESEARCH PLATFORMS
 ======
