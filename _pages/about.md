@@ -50,7 +50,7 @@ RESEARCH PLATFORMS
    - 
 
 SKILLS
-------
+======
 - **Programming Languages**: C/C++, MATLAB, Python, GNU Radio, LabVIEW, Java, Verilog.
 - **Instrument usage**: Universal Software Radio Peripheral (USRP), Millimeter wave radar, Vector Network Analyzers (VNA), RFID, PyTorch, AEDT HFSS.
 - **Circuit Design & Embedded Development**: Design Data, analog, and RF circuits and experience developing firmware and hardware solutions using MSP430, STM32, CC13xx, CC2650, and ESP32 microcontroller platforms.
