@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: "BRIEF INTRODUCTION"
 author_profile: true
@@ -21,7 +21,7 @@ Major: Software Engineering (Overall GPA: 4.3/5 Rank: 1st/101)
 
 PUBLICATIONS
 ======
-<!-- - **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. [“MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”], IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
+- **Shanyue Wang**, Yuxin Ding, Yubo Yan, et al. [“MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion”], IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>).
 - **Shanyue Wang**, Yubo Yan, Feiyu Han, et al. [“MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences”](https://dl.acm.org/doi/abs/10.1145/3643832.3661862) The 22nd ACM International Conference on Mobile Systems, Applications, and Services (<span style="color:red;">MobiSys 2024).
 - **Shanyue Wang**, Feiyu Han, Yubo Yan, et al. [“Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences”](https://ieeexplore.ieee.org/abstract/document/10682943?casa_token=vIERyBbY2HkAAAAA:kimKI9iyahEVs1uaI-tudMcBXOf2sqBr92iNQ6ih0Hnr0nH5nk_Pbu9hKvDVBqXS0AtfcKHADDI), IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2024</span>).
 - **Shanyue Wang**, Yubo Yan, Yujie Chen, et al. [“Spray: A Spectrum-efficient and Agile Concurrent Backscatter System”](https://dl.acm.org/doi/abs/10.1145/3638051), ACM Transactions on Sensor Networks (<span style="color:red;">TOSN 2024</span>).
@@ -53,7 +53,7 @@ SKILLS
 ======
 - **Programming Languages**: C/C++, MATLAB, Python, GNU Radio, LabVIEW, Java, Verilog.
 - **Instrument usage**: Universal Software Radio Peripheral (USRP), Millimeter wave radar, Vector Network Analyzers (VNA), RFID, PyTorch, AEDT HFSS.
-- **Circuit Design & Embedded Development**: Design Data, analog, and RF circuits and experience developing firmware and hardware solutions using MSP430, STM32, CC13xx, CC2650, and ESP32 microcontroller platforms. -->
+- **Circuit Design & Embedded Development**: Design Data, analog, and RF circuits and experience developing firmware and hardware solutions using MSP430, STM32, CC13xx, CC2650, and ESP32 microcontroller platforms.
 
 
- -->
+
