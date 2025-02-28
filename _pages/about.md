@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "BRIEF INTRODUCTION"
 author_profile: true
@@ -35,7 +35,7 @@ PUBLICATIONS
 - Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, et al. [“Survey on Low Power Sensing of AloT”](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202440396), Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
  -->
 
-RESEARCH PLATFORMS
+<!-- RESEARCH PLATFORMS
 ======
 1. **Ultra-Low-Power Massive IoT Platform**
    - An optimal spectrum planning strategy based on linear programming enables 30 tags to communicate concurrently in a 630kHz band with 305kbps throughput. A conflict-tolerant priority scheduling technique supports 96-tag cooperation.
@@ -53,7 +53,7 @@ SKILLS
 ======
 - **Programming Languages**: C/C++, MATLAB, Python, GNU Radio, LabVIEW, Java, Verilog.
 - **Instrument usage**: Universal Software Radio Peripheral (USRP), Millimeter wave radar, Vector Network Analyzers (VNA), RFID, PyTorch, AEDT HFSS.
-- **Circuit Design & Embedded Development**: Design Data, analog, and RF circuits and experience developing firmware and hardware solutions using MSP430, STM32, CC13xx, CC2650, and ESP32 microcontroller platforms.
+- **Circuit Design & Embedded Development**: Design Data, analog, and RF circuits and experience developing firmware and hardware solutions using MSP430, STM32, CC13xx, CC2650, and ESP32 microcontroller platforms. -->
 
 
-
+ -->
