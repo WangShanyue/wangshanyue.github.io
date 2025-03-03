@@ -67,7 +67,7 @@ RESEARCH PLATFORMS
 ![Ultra-Low-Power Massive IoT Platform](../images/Massive.jpg)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <video width="400" height="300" controls>
+    <video width="400" height="300" controls muted>
         <source src="../images/SprayDemo.mp4" type="video/mp4">
     </video>
 </div>
@@ -80,13 +80,13 @@ RESEARCH PLATFORMS
 2. **Robust Battery-Free Sensors Platform**
     
   <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="400" height="300" controls>
+      <video width="400" height="300" controls muted>
           <source src="../images/Camera.mp4" type="video/mp4">
       </video>
   </div>
 
   <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="400" height="300" controls>
+      <video width="400" height="300" controls muted>
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
       </video>
   </div>
