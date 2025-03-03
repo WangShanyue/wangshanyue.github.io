@@ -64,32 +64,30 @@ RESEARCH PLATFORMS
 
 1. **Ultra-Low-Power Massive IoT Platform**
 
-![Ultra-Low-Power Massive IoT Platform](../images/Massive.jpg)
+<!-- ![Ultra-Low-Power Massive IoT Platform](../images/Massive.jpg) -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <video width="400" height="300" controls muted>
+   - An optimal spectrum planning strategy based on linear programming enables 30 tags to communicate concurrently in a 630kHz band with 305kbps throughput. A conflict-tolerant priority scheduling technique supports 96-tag cooperation.
+   - For high-bandwidth WiFi backscatter signals, partial spectrum overlap and interference cancellation enable concurrent communication of 10 tags in the 2.4GHz band.
+   - Design large-scale backscatter communication protocols, combine spatial pseudo-orthogonality and OFDMA techniques to enable simulation of 9,600 tags concurrency.
+  
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <video width="320" height="240" controls muted>
         <source src="../images/SprayDemo.mp4" type="video/mp4">
     </video>
 </div>
 
 
-   - An optimal spectrum planning strategy based on linear programming enables 30 tags to communicate concurrently in a 630kHz band with 305kbps throughput. A conflict-tolerant priority scheduling technique supports 96-tag cooperation.
-   - For high-bandwidth WiFi backscatter signals, partial spectrum overlap and interference cancellation enable concurrent communication of 10 tags in the 2.4GHz band.
-   - Design large-scale backscatter communication protocols, combine spatial pseudo-orthogonality and OFDMA techniques to enable simulation of 9,600 tags concurrency.
-
-2. **Robust Battery-Free Sensors Platform**
+1. **Robust Battery-Free Sensors Platform**
     
-  <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="400" height="300" controls muted>
+  <div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 20px;">
+      <video width="320" height="240" controls muted>
           <source src="../images/Camea.mp4" type="video/mp4">
       </video>
-  </div>
-
-  <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="400" height="300" controls muted>
+      <video width="320" height="240" controls muted>
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
       </video>
   </div>
+
    - **Wide-Range Passive Universal Sensing Platform**: Utilizing MOSFET transistors combined with an ultra-low-power square wave reference circuit to establish a stable relationship between RF signal parameters and sensor voltage. The prototype operates within 30 µW, with an average measurement error of less than 3%.
    - **Passive Image Signal Transmission**: Incorporating Vision Transformer-based image reconstruction algorithms to reduce transmission load by 70%.
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
