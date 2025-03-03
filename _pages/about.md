@@ -61,6 +61,8 @@ PUBLICATIONS
 
 RESEARCH PLATFORMS
 ======
+![Ultra-Low-Power Massive IoT Platform](../images/Massive.jpg)
+
 1. **Ultra-Low-Power Massive IoT Platform**
    - An optimal spectrum planning strategy based on linear programming enables 30 tags to communicate concurrently in a 630kHz band with 305kbps throughput. A conflict-tolerant priority scheduling technique supports 96-tag cooperation.
    - For high-bandwidth WiFi backscatter signals, partial spectrum overlap and interference cancellation enable concurrent communication of 10 tags in the 2.4GHz band.
