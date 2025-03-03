@@ -70,7 +70,7 @@ RESEARCH PLATFORMS
    - For high-bandwidth WiFi backscatter signals, partial spectrum overlap and interference cancellation enable concurrent communication of 10 tags in the 2.4GHz band.
    - Design large-scale backscatter communication protocols, combine spatial pseudo-orthogonality and OFDMA techniques to enable simulation of 9,600 tags concurrency.
   
-  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <div style="display: flex; justify-content: center; align-items: center">
     <video width="320" height="240" controls muted>
         <source src="../images/SprayDemo.mp4" type="video/mp4">
     </video>
@@ -84,7 +84,7 @@ RESEARCH PLATFORMS
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
   
-    <div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 20px;">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
       <video width="320" height="240" controls muted>
           <source src="../images/Camea.mp4" type="video/mp4">
       </video>
@@ -92,7 +92,7 @@ RESEARCH PLATFORMS
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
       </video>
   </div>
-  
+
 AWARDS
 ======
 - **First-Class Academic Scholarship**, University of Science and Technology of China (USTC), 2020, 2024  
