@@ -103,7 +103,7 @@ AWARDS
 - **Merit Student**, NUAA, 2017–2020  
 - **Top 100 Outstanding Young Students**, NUAA, 2019  
 - **First Prize**, 10th Lanqiao Cup National Software and Information Technology Professional Competition (C/C++ Programming, Undergraduate A Group, Jiangsu Province), Ministry of Industry and Information Technology, 2019  
-- **Second Prize**, 9th Lanqiao Cup National Software and Information Technology Professional Competition (C/C++ Programming, Undergraduate A Group, Jiangsu Province), Ministry of Industry and Information Technology, 2018  
+<!-- - **Second Prize**, 9th Lanqiao Cup National Software and Information Technology Professional Competition (C/C++ Programming, Undergraduate A Group, Jiangsu Province), Ministry of Industry and Information Technology, 2018   -->
 
 
 
