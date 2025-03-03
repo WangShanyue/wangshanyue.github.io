@@ -94,6 +94,20 @@ RESEARCH PLATFORMS
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
 
+AWARDS
+======
+- **First-Class Academic Scholarship**, University of Science and Technology of China (USTC), 2020, 2024  
+- **Outstanding Graduate**, Nanjing University of Aeronautics and Astronautics (NUAA), 2020  
+- **National Scholarship (Undergraduate)**, Ministry of Education of China, 2018  
+- **First-Class Outstanding Student Scholarship**, NUAA, 2017–2020  
+- **First-Class Academic Scholarship**, NUAA, 2017–2020  
+- **Merit Student**, NUAA, 2017–2020  
+- **Top 100 Outstanding Young Students**, NUAA, 2019  
+- **First Prize**, 10th Lanqiao Cup National Software and Information Technology Professional Competition (C/C++ Programming, Undergraduate A Group, Jiangsu Province), Ministry of Industry and Information Technology, 2019  
+- **Second Prize**, 9th Lanqiao Cup National Software and Information Technology Professional Competition (C/C++ Programming, Undergraduate A Group, Jiangsu Province), Ministry of Industry and Information Technology, 2018  
+
+
+
 SKILLS
 ======
 - **Programming Languages**: C/C++, MATLAB, Python, GNU Radio, LabVIEW, Java, Verilog.
