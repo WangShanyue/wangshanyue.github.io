@@ -67,7 +67,7 @@ RESEARCH PLATFORMS
 ![Ultra-Low-Power Massive IoT Platform](../images/Massive.jpg)
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <video width="640" height="480" controls>
+    <video width="400" height="300" controls>
         <source src="../images/SprayDemo.mp4" type="video/mp4">
     </video>
 </div>
@@ -78,14 +78,15 @@ RESEARCH PLATFORMS
    - Design large-scale backscatter communication protocols, combine spatial pseudo-orthogonality and OFDMA techniques to enable simulation of 9,600 tags concurrency.
 
 2. **Robust Battery-Free Sensors Platform**
-    <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="640" height="480" controls>
+    
+  <div style="display: flex; align-items: center; height: 100vh;">
+      <video width="400" height="300" controls>
           <source src="../images/Camera.mp4" type="video/mp4">
       </video>
   </div>
 
   <div style="display: flex; align-items: center; height: 100vh;">
-      <video width="640" height="480" controls>
+      <video width="400" height="300" controls>
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
       </video>
   </div>
