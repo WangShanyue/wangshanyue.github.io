@@ -39,9 +39,9 @@ PUBLICATIONS
 - [“VideoBack: High Quality Video Backscatter with Ambient WiFi”](https://ieeexplore.ieee.org/abstract/document/10476085).
   - Yuxin Ding, **Shanyue Wang**, Yubo Yan, Panlong Yang. 
   - International Conference on Parallel and Distributed Systems (<span style="color:red;">ICPADS 2023</span>).
--  "An Image Recovery Method for Non-Retransmission Backscatter Communication", 
-  - Qinmeng Du, **Shanyue Wang**, Xiang Cui, Yachen Mao, Xiangyang Li.
-  - IEEE International Conference on Mobility, Sensing and Networking (<span style="color:red;">MSN 2024</span>).
+-  "An Image Recovery Method for Non-Retransmission Backscatter Communication".
+   -  Qinmeng Du, **Shanyue Wang**, Xiang Cui, Yachen Mao, Xiangyang Li.
+   -  IEEE International Conference on Mobility, Sensing and Networking (<span style="color:red;">MSN 2024</span>).
 - [“Stabilizing Dynamic Backscatter for Swift and Accurate Object Tracking”](https://dl.acm.org/doi/abs/10.1145/3687479).
   - Yachen Mao, Yubo Yan, **Shanyue Wang**, Xiangyang Li. 
   - ACM Transactions on Sensor Networks (<span style="color:red;">TOSN 2024</span>).
@@ -49,11 +49,11 @@ PUBLICATIONS
   - Yujie Chen, Yuxin Ding, **Shanyue Wang**, Yubo Yan. 
   - IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2024</span>).
 -  [“STABack: Making Dynamic Backscattering Stable for Fast and Accurate Object Tracking”](https://ieeexplore.ieee.org/abstract/document/10188790?casa_token=0tFbrd88icIAAAAA:zOXFPuMSC515423od0PmglPzAEPBG6sO_u14VRZVgScOzMjvWMeoBF68hAA27C6UMJ2Ccd8upG0).
-  - Yachen Mao, Panlong Yang, **Shanyue Wang**, Yubo Yan.
-  - IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2023</span>).
+   -  Yachen Mao, Panlong Yang, **Shanyue Wang**, Yubo Yan.
+   -  IEEE/ACM International Symposium on Quality of Service (<span style="color:red;">IWQoS 2023</span>).
 -  [“A Framework for Adaptive Adjustment in BLE-Based Low Power IoT Vision”](https://ieeexplore.ieee.org/abstract/document/10819368?casa_token=M2waCU-oVgQAAAAA:wNGrXCv7aN0ktVqhRGxIaoXILtpqHQ-mx2w1SdEviRTarqY1WWfdp5I1wX-AUKYZ1z4_x8qjFhg).
-  - Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, Yubo Yan, Hao Zhou, Xiangyang Li.
-  - IEEE Internet of Things Journal (<span style="color:red;">IOTJ 2024</span>).
+   -  Xiang Cui, Yachen Mao, Qinmeng Du, **Shanyue Wang**, Yubo Yan, Hao Zhou, Xiangyang Li.
+   -  IEEE Internet of Things Journal (<span style="color:red;">IOTJ 2024</span>).
 -  [“Survey on Low Power Sensing of AloT”](https://crad.ict.ac.cn/en/article/doi/10.7544/issn1000-1239.202440396). 
    -  Xiang-Yang Li, Fei Shang, Yubo Yan, **Shanyue Wang**, Feiyu Han, Guoxuan Chi, Zheng Yang, Xiaojiang Chen.
    -  Journal of Computer Research and Development (<span style="color:red;">JCRD 2024</span>).
