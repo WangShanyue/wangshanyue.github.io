@@ -74,7 +74,7 @@ RESEARCH PLATFORMS
     <video width="320" height="240" controls muted>
         <source src="../images/SprayDemo.mp4" type="video/mp4">
     </video>
-</div>
+  </div>
 
 
 1. **Robust Battery-Free Sensors Platform**
