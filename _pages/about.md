@@ -118,7 +118,7 @@ SKILLS
 TA Experience
 ======
 - [Computer Systems Laboratory and Course Design](https://github.com/jinhang1997/NUAA-PA2019-lecture/tree/master) (2019, 2020 NUAA) 
-  - Writing the document of PA [2.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.1.md) [2.2](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.2.md) [4.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa4/4.1.md)
-  - Preparing for the lectures of PA2, PA4 
+  - Authored documentation for PA [2.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.1.md), [2.2](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.2.md), and [4.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa4/4.1.md)
+  - Prepared lectures for PA2 and PA4
 - Computer Organization and Architecture (2020, 2021, USTC)
 - Science and Society (2023, 2024, USTC)
