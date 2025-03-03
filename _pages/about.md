@@ -78,11 +78,21 @@ RESEARCH PLATFORMS
    - Design large-scale backscatter communication protocols, combine spatial pseudo-orthogonality and OFDMA techniques to enable simulation of 9,600 tags concurrency.
 
 2. **Robust Battery-Free Sensors Platform**
-   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
+    <div style="display: flex; align-items: center; height: 100vh;">
+      <video width="640" height="480" controls>
+          <source src="../images/Camera.mp4" type="video/mp4">
+      </video>
+  </div>
+
+  <div style="display: flex; align-items: center; height: 100vh;">
+      <video width="640" height="480" controls>
+          <source src="../images/Staback_Demo.mp4" type="video/mp4">
+      </video>
+  </div>
    - **Wide-Range Passive Universal Sensing Platform**: Utilizing MOSFET transistors combined with an ultra-low-power square wave reference circuit to establish a stable relationship between RF signal parameters and sensor voltage. The prototype operates within 30 µW, with an average measurement error of less than 3%.
    - **Passive Image Signal Transmission**: Incorporating Vision Transformer-based image reconstruction algorithms to reduce transmission load by 70%.
    - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
-   - 
+   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
 
 SKILLS
 ======
