@@ -79,7 +79,12 @@ RESEARCH PLATFORMS
 
 1. **Robust Battery-Free Sensors Platform**
     
-  <div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 20px;">
+   - **Wide-Range Passive Universal Sensing Platform**: Utilizing MOSFET transistors combined with an ultra-low-power square wave reference circuit to establish a stable relationship between RF signal parameters and sensor voltage. The prototype operates within 30 µW, with an average measurement error of less than 3%.
+   - **Passive Image Signal Transmission**: Incorporating Vision Transformer-based image reconstruction algorithms to reduce transmission load by 70%.
+   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
+   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
+  
+    <div style="display: flex; align-items: center; justify-content: center; height: 100vh; gap: 20px;">
       <video width="320" height="240" controls muted>
           <source src="../images/Camea.mp4" type="video/mp4">
       </video>
@@ -87,12 +92,7 @@ RESEARCH PLATFORMS
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
       </video>
   </div>
-
-   - **Wide-Range Passive Universal Sensing Platform**: Utilizing MOSFET transistors combined with an ultra-low-power square wave reference circuit to establish a stable relationship between RF signal parameters and sensor voltage. The prototype operates within 30 µW, with an average measurement error of less than 3%.
-   - **Passive Image Signal Transmission**: Incorporating Vision Transformer-based image reconstruction algorithms to reduce transmission load by 70%.
-   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: To mitigate low-frequency interference caused by drastic signal amplitude variations during tag movement, an energy balancing and dynamic demodulation algorithm is proposed, reducing the BER by 0.38.
-   - **Robust Sensing Platform Based on Ambient WiFi Backscatter**: Restores the original frequency band using WiFi pilot signals for single-receiver demodulation and recovers corrupted signals by detecting interference-free subcarriers, reducing FER by up to 50%.
-
+  
 AWARDS
 ======
 - **First-Class Academic Scholarship**, University of Science and Technology of China (USTC), 2020, 2024  
@@ -115,5 +115,10 @@ SKILLS
 
 
 
-Services
+TA Experience
 ======
+- [Computer Systems Laboratory and Course Design](https://github.com/jinhang1997/NUAA-PA2019-lecture/tree/master) (2019, 2020 NUAA) 
+  - Writing the document of PA [2.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.1.md) [2.2](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa2/2.2.md) [4.1](https://github.com/jinhang1997/NUAA-PA2019-lecture/blob/master/pa4/4.1.md)
+  - Preparing for the lectures of PA2, PA4 
+- Computer Organization and Architecture (2020, 2021, USTC)
+- Science and Society (2023, 2024, USTC)
