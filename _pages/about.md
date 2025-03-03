@@ -21,7 +21,7 @@ Major: Software Engineering (Overall GPA: 4.3/5 Rank: 1st/101)
 
 PUBLICATIONS
 ======
-- MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion.
+- "MegaScatter: Large-Scale and Ubiquitous Backscatter Network via Multi-Domain Fusion".
   - **Shanyue Wang**,  Yuxin Ding, Yubo Yan, Feiyu Han, Dawei Yan, Panlong Yang. 
   - IEEE Conference on Computer Communications (<span style="color:red;">INFOCOM 2025</span>)
 - [“MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences”](https://dl.acm.org/doi/abs/10.1145/3643832.3661862) .
@@ -39,7 +39,7 @@ PUBLICATIONS
 - [“VideoBack: High Quality Video Backscatter with Ambient WiFi”](https://ieeexplore.ieee.org/abstract/document/10476085).
   - Yuxin Ding, **Shanyue Wang**, Yubo Yan, Panlong Yang. 
   - International Conference on Parallel and Distributed Systems (<span style="color:red;">ICPADS 2023</span>).
--  [“An Image Recovery Method for Non-Retransmission Backscatter Communication”], 
+-  "An Image Recovery Method for Non-Retransmission Backscatter Communication", 
   - Qinmeng Du, **Shanyue Wang**, Xiang Cui, Yachen Mao, Xiangyang Li.
   - IEEE International Conference on Mobility, Sensing and Networking (<span style="color:red;">MSN 2024</span>).
 - [“Stabilizing Dynamic Backscatter for Swift and Accurate Object Tracking”](https://dl.acm.org/doi/abs/10.1145/3687479).
