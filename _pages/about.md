@@ -81,7 +81,7 @@ RESEARCH PLATFORMS
     
   <div style="display: flex; align-items: center; height: 100vh;">
       <video width="400" height="300" controls muted>
-          <source src="../images/Camera.mp4" type="video/mp4">
+          <source src="../images/Camea.mp4" type="video/mp4">
       </video>
   </div>
 
