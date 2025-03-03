@@ -86,7 +86,7 @@ RESEARCH PLATFORMS
   
     <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
       <video width="320" height="240" controls muted>
-          <source src="../images/Camea.mp4" type="video/mp4">
+          <source src="../images/Camera.mp4" type="video/mp4">
       </video>
       <video width="320" height="240" controls muted>
           <source src="../images/Staback_Demo.mp4" type="video/mp4">
